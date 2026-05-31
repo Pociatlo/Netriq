@@ -1,6 +1,6 @@
 # Netriq OS
 
-Netriq is a minimalist, secure, bare-metal router operating system built in Rust. It is designed with the "WireGuard philosophy" in mind: stripping away legacy bloat in favor of modern, auditable, and highly performant architecture.
+Netriq is a minimalist, secure, bare-metal router operating system built in Rust. It follows a clean-slate design principle: stripping away legacy bloat in favor of modern, auditable, and highly performant architecture.
 
 Currently, this repository houses the **Phase 1** implementation: a custom, bare-metal UEFI bootloader that establishes the hardware foundation before handing off control to the kernel.
 
